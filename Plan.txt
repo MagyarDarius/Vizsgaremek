@@ -1,0 +1,6 @@
+FrontEnd: Dárius
+BackEnd: Bence
+1. Oldalak:
+	-Főoldal
+	-időpontfoglalás mindegyikhez (műszaki, eredet, szerviz stb...)
+	-
